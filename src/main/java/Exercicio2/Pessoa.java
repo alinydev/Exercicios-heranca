@@ -5,7 +5,18 @@ package Exercicio2;
         public String nome;
         public int idade;
 
-        public void falar() {}
 
-    }
+            // Método falar
+            public static void falar(String mensagem) {
+                System.out.println(mensagem);
+            }
 
+            public static void main(String[] args) {
+
+                Pessoa pessoa = new Pessoa();
+
+                // Chamando o método falar
+                pessoa.falar("Olá!");
+
+            }
+        }
