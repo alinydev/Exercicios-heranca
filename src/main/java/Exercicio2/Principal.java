@@ -1,4 +1,4 @@
-package pacote;
+package Exercicio2;
 import java.lang.String;
 
     //O código (Classe Principal) exibe todos os atributos e chama todos os métodos envolvidos no processo.
