@@ -1,4 +1,4 @@
-package Exercicio2;
+package Exercício2;
 
     public class Pessoa {
 
@@ -20,3 +20,4 @@ package Exercicio2;
 
             }
         }
+    
