@@ -21,8 +21,7 @@ import java.lang.String;
 
         }
 
-		public static void falar(String string) {
-			// TODO Auto-generated method stub
+            public static void falar(String string) {
 			
 		}
     }
