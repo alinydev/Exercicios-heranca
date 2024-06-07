@@ -1,4 +1,4 @@
-package Exercicio2;
+package pacote;
 import java.lang.String;
 
     //O código (Classe Principal) exibe todos os atributos e chama todos os métodos envolvidos no processo.
@@ -20,4 +20,9 @@ import java.lang.String;
 
 
         }
+
+		private static void falar(String string) {
+			// TODO Auto-generated method stub
+			
+		}
     }
